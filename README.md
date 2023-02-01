@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Thayná Lopes
 
 - 🌱 Atualmente estudando programação em Python
-- 📫 Contate-me no email: thayvfx@gmail.com
+- 📫 Contate-me no email: tatarlt7@gmail.com
 - 😄 Pronomes: ela/dela
 
 --> Sempre tive interesse na área de programação e agora estou estudando a fundo o Python para por em prática.
