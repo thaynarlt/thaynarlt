@@ -40,5 +40,6 @@ a fim de proporcionar projetos criativos e diversificados para o consumidor.
 -🎓 Fundamentos do Design Gráfico
 -🎓 Linguagem de programação C# basico
 -🎓 Introdução ao Kali Linux do Zero para Iniciantes
-  
+- 🌱 Atualmente estudando programação em Python, HTML e CSS
+- 📫 Contate-me no email: tatarlt7@gmail.com
 </div>
