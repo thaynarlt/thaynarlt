@@ -1,10 +1,9 @@
-### Oii! Eu sou a Thayná Lopes
+### Oii! Eu sou a Thayná Rodrigues
 
-- 🌱 Atualmente estudando programação em Python
+- 🌱 Atualmente estudando programação em Python, HTML e CSS
 - 📫 Contate-me no email: tatarlt7@gmail.com
-- 😄 Pronomes: ela/dela
 
---> Sempre tive interesse na área de programação e agora estou estudando a fundo o Python para por em prática.
+--> Estudando na área de Front-End, com complemento do Python e UX Design a fim de proporcionar projetos criativos e diversificados para o consumidor.
 
 <picture>
 <source 
