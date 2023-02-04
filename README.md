@@ -3,7 +3,8 @@
 - 🌱 Atualmente estudando programação em Python, HTML e CSS
 - 📫 Contate-me no email: tatarlt7@gmail.com
 
---> Estudando na área de Front-End, com complemento do Python e UX Design a fim de proporcionar projetos criativos e diversificados para o consumidor.
+--> Estudando na área de Front-End, com complemento do Python e UX Design 
+a fim de proporcionar projetos criativos e diversificados para o consumidor.
 
 <picture>
 <source 
