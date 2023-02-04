@@ -36,4 +36,6 @@ a fim de proporcionar projetos criativos e diversificados para o consumidor.
   <a href = "mailto:thayvfx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thayna-tolentino-405390264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+  -asd
+  
 </div>
