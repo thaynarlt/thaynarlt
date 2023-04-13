@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Thayná Rodrigues
 
 - 🌱 Atualmente estudando programação em Python, HTML e CSS
-- 📫 Contate-me no email: tatarlt7@gmail.com
+- 📫 Contate-me no email: thayvfx@gmail.com
 
 --> Estudando na área de Front-End, com complemento do Python e UX Design 
 a fim de proporcionar projetos criativos e diversificados.
