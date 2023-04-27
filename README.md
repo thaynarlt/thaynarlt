@@ -1,4 +1,4 @@
-### Oii! Eu sou a Thayná Rodrigues
+### Oii! Eu sou a Thayná Tolentino
 
 - 🌱 Atualmente estudando programação em Python, HTML e CSS
 - 📫 Contate-me no email: thayvfx@gmail.com
