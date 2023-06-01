@@ -7,12 +7,11 @@
 a fim de proporcionar projetos criativos e diversificados.
 
 <picture>
-<source 
+  
 [![thaynarlt](https://github-readme-stats.vercel.app/api?username=thaynarlt&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 [![thaynarlt](https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarlt&hide=html&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-/>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
