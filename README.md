@@ -21,7 +21,7 @@ a fim de proporcionar projetos criativos e diversificados.
  
  <div>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaynarlt&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarlt&layout=compact&langs_count=7&theme=dracula" alt="Gift's language" height="192px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarlt&layout=compact&langs_count=7&theme=dracula" alt="Gift's language" height="187px"  width="500px"/>
 </div>
 
 <!-- GitHub section: END -->
