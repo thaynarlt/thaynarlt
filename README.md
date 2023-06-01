@@ -37,3 +37,7 @@ a fim de proporcionar projetos criativos e diversificados.
   <a href="https://www.linkedin.com/in/thayna-tolentino-405390264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+  
+[![thaynarlt](https://github-readme-stats.vercel.app/api?username=thaynarlt&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![thaynarlt](https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarlt&hide=html&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
