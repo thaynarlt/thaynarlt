@@ -9,8 +9,6 @@ a fim de proporcionar projetos criativos e diversificados.
 
 - 😄 Meus pronomes: She/Her   
 
-- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
-
 - ⚡ Fun fact: Sou apaixonada por edição de vídeos e imagens. Editava vídeos de filmes e séries por diversão: [Veja aqui!](https://www.instagram.com/atllasae/)
 
 <!-- About section: END -->
@@ -21,7 +19,7 @@ a fim de proporcionar projetos criativos e diversificados.
  
  <div>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaynarlt&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarlt&layout=compact&langs_count=7&theme=dracula" alt="Gift's language" height="187px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarlt&layout=compact&langs_count=7&theme=dracula" alt="Gift's language" height="187px"  width="300px"/>
 </div>
 
 <!-- GitHub section: END -->
