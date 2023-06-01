@@ -15,11 +15,11 @@ a fim de proporcionar projetos criativos e diversificados.
 
  <!-- GitHub section -->
 
- ##  Status do GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ ##  Status do GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 30px> 
  
  <div>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaynarlt&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarlt&layout=compact&langs_count=7&theme=dracula" alt="Gift's language" height="187px"  width="300px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarlt&layout=compact&langs_count=7&theme=dracula" alt="Gift's language" height="187px"  width="350px"/>
 </div>
 
 <!-- GitHub section: END -->
