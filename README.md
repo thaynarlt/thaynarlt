@@ -9,7 +9,7 @@ a fim de proporcionar projetos criativos e diversificados.
 
 - 😄 Meus pronomes: She/Her   
 
-- ⚡ Fun fact: Sou apaixonada por edição de vídeos e imagens. Editava vídeos de filmes e séries por diversão: [Veja aqui!](https://www.instagram.com/atllasae/)
+- ⚡ Fun fact: Sou apaixonada por edição de vídeos! Editava vídeos de filmes e séries por diversão: [Veja aqui!](https://www.instagram.com/atllasae/)
 
 <!-- About section: END -->
 
@@ -28,10 +28,12 @@ a fim de proporcionar projetos criativos e diversificados.
  ##  Linguagens de programação em andamento...
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+  
   
   
   ##  Redes:
