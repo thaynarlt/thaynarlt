@@ -1,18 +1,6 @@
 <!-- Head -->
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>Olá! Eu sou Thayná Tolentino</h2>
 
-✨ Eu sou estudante do curso Sistemas para Internet - IFPB e pretendo aprimorar minhas habilidades, principalmente na área de Front-End, com complemento do UX Design 
-a fim de proporcionar projetos criativos e diversificados.
-
-
-<!-- About section -->
-
-- 😄 Meus pronomes: She/Her   
-
-- ⚡ Fun fact: Sou apaixonada por edição de vídeos! Editava vídeos de filmes e séries por diversão: [Veja aqui!](https://www.instagram.com/atllasae/)
-
-<!-- About section: END -->
-
  <!-- GitHub section -->
 
  ##  Status do GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 30px> 
