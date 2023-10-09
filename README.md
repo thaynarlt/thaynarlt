@@ -4,7 +4,7 @@
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaynarlt&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/thaynarlt/convoychat">
-  <img height=190 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaynarlt&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
+  <img height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaynarlt&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
 </a>
 
 <p id="socialIcons" align="center">
