@@ -20,7 +20,7 @@
 </p>
 
 
-[banner]: Linkedin-Banner-Thayna.png
+[banner]: LinkedinBanner.png
 <!-- [website]: https:// !-->
 [github]: https://github.com/thaynarlt
 [linkedin]: https://linkedin.com/in/thaynarlt
