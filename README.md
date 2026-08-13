@@ -73,9 +73,6 @@ Atuo na criação de interfaces centradas no usuário, na implementação dessas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thaynarlt&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=A259FF&icon_color=A259FF&locale=pt-br" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarlt&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=A259FF&locale=pt-br" />
-
 <br/>
 
 <img width="80%" src="https://streak-stats.demolab.com?user=thaynarlt&theme=react&hide_border=true&background=0D1117&ring=A259FF&fire=A259FF&currStreakLabel=A259FF&locale=pt_BR" />
