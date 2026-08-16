@@ -30,7 +30,7 @@ Atuo na criação de interfaces centradas no usuário, na implementação dessas
 - 💻 Desenvolvimento front-end com foco em interfaces acessíveis e responsivas
 - 🔐 Estudos e práticas em cibersegurança
 - 🎬 Edição e produção de vídeo
-- 🌱 Atualmente aprofundando em [PREENCHER: ex. React, segurança ofensiva...]
+- 🌱 Atualmente aprofundando em React, Node.js e Tailwind
 
 <br/>
 
