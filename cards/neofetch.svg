@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="472" viewBox="0 0 480 472" role="img" aria-label="~/neofetch">
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+  .nf text { font-size: 13px; }
+  .cursor { animation: piscar 1.1s steps(1) infinite; }
+  @keyframes piscar { 50% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="479" height="471" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="18" cy="16" r="5.5" fill="#ff5f56"/>
+<circle cx="36" cy="16" r="5.5" fill="#ffbd2e"/>
+<circle cx="54" cy="16" r="5.5" fill="#27c93f"/>
+<text x="240" y="20" text-anchor="middle" font-size="12" fill="#8b949e">~/neofetch</text>
+<line x1="1" y1="32" x2="479" y2="32" stroke="#30363d"/>
+<g class="nf">
+<text x="24" y="66" fill="#c9d1d9"><tspan fill="#b48aff" font-weight="700">thaynarlt</tspan>@<tspan fill="#b48aff" font-weight="700">github</tspan></text>
+<text x="24" y="88" fill="#6e7681">----------------</text>
+<text x="24" y="110" fill="#d2a8ff" font-weight="700">Nome:</text>
+<text x="117.6" y="110" fill="#c9d1d9">Thayná Tolentino</text>
+<text x="24" y="132" fill="#d2a8ff" font-weight="700">Função:</text>
+<text x="117.6" y="132" fill="#c9d1d9">UX/UI Designer &amp; Front-End Dev</text>
+<text x="24" y="154" fill="#d2a8ff" font-weight="700">Foco:</text>
+<text x="117.6" y="154" fill="#c9d1d9">Interfaces acessíveis e responsivas</text>
+<text x="24" y="176" fill="#d2a8ff" font-weight="700">Linguagens:</text>
+<text x="117.6" y="176" fill="#c9d1d9">TypeScript, JavaScript, Java, Python</text>
+<text x="24" y="198" fill="#d2a8ff" font-weight="700">Front-end:</text>
+<text x="117.6" y="198" fill="#c9d1d9">React, Next.js, TailwindCSS</text>
+<text x="24" y="220" fill="#d2a8ff" font-weight="700">Back-end:</text>
+<text x="117.6" y="220" fill="#c9d1d9">Node.js, Supabase, PostgreSQL</text>
+<text x="24" y="242" fill="#d2a8ff" font-weight="700">Design:</text>
+<text x="117.6" y="242" fill="#c9d1d9">Figma, Adobe CC, edição de vídeo</text>
+<text x="24" y="264" fill="#d2a8ff" font-weight="700">Segurança:</text>
+<text x="117.6" y="264" fill="#c9d1d9">Cibersegurança (estudos e prática)</text>
+<text x="24" y="286" fill="#d2a8ff" font-weight="700">Estudando:</text>
+<text x="117.6" y="286" fill="#c9d1d9">Node.js, arquitetura front-end</text>
+<text x="24" y="308" fill="#d2a8ff" font-weight="700">Local:</text>
+<text x="117.6" y="308" fill="#c9d1d9">João Pessoa, PB</text>
+<text x="24" y="330" fill="#d2a8ff" font-weight="700">Portfólio:</text>
+<text x="117.6" y="330" fill="#c9d1d9">thaynatolentino.vercel.app</text>
+<text x="24" y="352" fill="#d2a8ff" font-weight="700">LinkedIn:</text>
+<text x="117.6" y="352" fill="#c9d1d9">linkedin.com/in/thaynarlt</text>
+<rect x="24" y="374" width="20" height="14" rx="3" fill="#484f58"/>
+<rect x="50" y="374" width="20" height="14" rx="3" fill="#ff7b72"/>
+<rect x="76" y="374" width="20" height="14" rx="3" fill="#3fb950"/>
+<rect x="102" y="374" width="20" height="14" rx="3" fill="#d29922"/>
+<rect x="128" y="374" width="20" height="14" rx="3" fill="#58a6ff"/>
+<rect x="154" y="374" width="20" height="14" rx="3" fill="#bc8cff"/>
+<rect x="180" y="374" width="20" height="14" rx="3" fill="#39c5cf"/>
+<rect x="206" y="374" width="20" height="14" rx="3" fill="#f0f6fc"/>
+<text x="24" y="428" fill="#c9d1d9" xml:space="preserve"><tspan fill="#b48aff" font-weight="700">thaynarlt</tspan>@<tspan fill="#b48aff" font-weight="700">github</tspan> <tspan fill="#d2a8ff">~</tspan> $ <tspan class="cursor" fill="#b48aff">█</tspan></text>
+</g>
+</svg>

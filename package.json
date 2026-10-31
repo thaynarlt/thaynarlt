@@ -1,0 +1,11 @@
+{
+  "name": "perfil-github",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "gerar": "node scripts/gerar.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.34.3"
+  }
+}
