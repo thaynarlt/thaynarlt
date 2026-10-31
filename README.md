@@ -51,14 +51,13 @@ e na produção de conteúdo audiovisual.
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [series.app](https://thaynatolentino.vercel.app/projetos/series-app-catalogo) | App para acompanhar e organizar as séries que você assiste, com conta pessoal e login. | Next.js, React, TypeScript, Autenticação |
-| [Financeiro](https://thaynatolentino.vercel.app/projetos/financas-controle-financeiro) | Aplicação web para organizar receitas e despesas e acompanhar o saldo, com cadastro e área restrita por usuário. | Next.js, React, TypeScript, Autenticação |
+| [series.app](https://thaynarlt.com.br/projetos/series-app-catalogo) | App para acompanhar e organizar as séries que você assiste, com conta pessoal e login. | Next.js, React, TypeScript, Autenticação |
 
 <br>
 
 <h3><code>thaynarlt@github ~ $ ./links.sh</code></h3>
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-A259FF?style=for-the-badge&logo=vercel&logoColor=white)](https://thaynatolentino.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-A259FF?style=for-the-badge&logo=vercel&logoColor=white)](https://thaynarlt.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thaynarlt)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@thaynarlt)
 [![E-mail](https://img.shields.io/badge/E--mail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thayvfx@gmail.com)

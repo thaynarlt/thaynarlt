@@ -18,7 +18,7 @@ export default {
     ['Segurança', 'Cibersegurança (estudos e prática)'],
     ['Estudando', 'Node.js, arquitetura front-end'],
     ['Local', 'João Pessoa, PB'],
-    ['Portfólio', 'thaynatolentino.vercel.app'],
+    ['Portfólio', 'thaynarlt.com.br'],
     ['LinkedIn', 'linkedin.com/in/thaynarlt'],
   ],
 
