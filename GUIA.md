@@ -45,6 +45,8 @@ Tudo pode ser feito pelo próprio site do GitHub (ícone de lápis ✏️ no arq
 
 Ao salvar `perfil.config.mjs` ou a foto na `main`, a Action roda sozinha e os cards são refeitos em ~1 minuto.
 
+O GitHub guarda as imagens em cache por até 5 minutos. Se o card ainda mostrar o texto antigo depois que a Action terminar, espere um pouco ou recarregue a página com **Ctrl + Shift + R**.
+
 ## Gerar no seu computador (opcional)
 
 Precisa de Node.js e do GitHub CLI logado (`gh auth login`):
